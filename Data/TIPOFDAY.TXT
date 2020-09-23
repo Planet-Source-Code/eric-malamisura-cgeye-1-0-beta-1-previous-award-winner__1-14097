@@ -1,0 +1,7 @@
+That if your having trouble navigating through the code you can view all the subs in it and jump from on to the other from the navigation tab in the left window.
+All your recently used documents are kept in a list under the menu File
+You can created your own Plugins for CgEye by reading the tutorial on Elucid Software's webpage at http://elucidsoftware.hypermart.net
+When typing code the tooltips at the bottom of the screen can offer vital syntax information for you.
+You can assign Hot Keys to save you time and typing in the settings screen under View
+Allowing color syntaxing can aid you in the viewing of scripts
+If you forget a command name you can view it in the command list in the left window under commands tab
